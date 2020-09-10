@@ -20,6 +20,6 @@ Current limitations:
 
 4. Currently this only uses one set of files at a time. I have plans to expand this so that I can have it run against two sources. 
 
-5. If your BT connection drops sometimes you'll need to bounce Initface and relauch Buttgrep to get things going again. BT is Radio. Radio does not transmit well through booty. 
+5. If your BT connection drops sometimes you'll need to bounce Initface and relaunch Buttgrep to get things going again. BT is Radio. Radio does not transmit well through booty. 
 
 If you want to tip or support my weird projects like this feel free to get me some coffee over at https://ko-fi.com/enyozen. I don't expect it, but hey coffee would be nice. 
