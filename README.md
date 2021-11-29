@@ -1,3 +1,7 @@
+********* 
+THIS PROJECT IS ESSENTIALLY DEAD. IF WE MAKE UPDATES WE'LL PUBLISH THEM, BUT THIS PROJECT IS NOT UNDER ANY DEVELOPMENT OR UPKEEP TIMELINE
+*********
+
 # ButtGrep
 Buttgrep is a small Python program that interacts with Intiface Desktop to parse real time log files. (It makes toys vibrate to games and programs)
 It came out of looking at the effort of people to integrate FFXIV with Initface using custom branches of ACT and Triggernometry. I kinda went "But... logs" and then went "But... I can use this for *anything* with logs..." and... ButtGrep. 
@@ -22,7 +26,6 @@ Current limitations:
 
   **5.** If your BT connection drops sometimes you'll need to bounce Initface and relaunch Buttgrep to get things going again. BT is Radio. Radio does not transmit well through booty. 
 
-Lastly, there's a setup video to use this with FFXIV. It's not well done. I didn't script it. It's just to get everyone started. 
-https://www.youtube.com/watch?v=SzJKAATBbiQ
-
-I'm trying to clean up my social media threads between my directly porny stuff and my dev and 3D printing stuff. I'll put random blog posts about this over at my Ko-fi but ButtGrep won't ever go "for pay" for the app. If you want to tip or support my weird projects like this then thanks and that's the place to do it, but not expected or required: https://ko-fi.com/enyozen/posts
+********* 
+THIS PROJECT IS ESSENTIALLY DEAD. IF WE MAKE UPDATES WE'LL PUBLISH THEM, BUT THIS PROJECT IS NOT UNDER ANY DEVELOPMENT OR UPKEEP TIMELINE
+*********
